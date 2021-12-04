@@ -18,11 +18,11 @@
     5. **style.css** <br>
   3. Open shell and type **npm install --global http-server**.
      ```console
-    npm install --global http-server
+     npm install --global http-server
      ```
   4. Type **npm install**.
-     ```bash
-    foo@bar:~$npm install
+     ```console
+     npm install
      ```
   5. type **http-server -c-1** to start the server.
      ```console
