@@ -1,7 +1,7 @@
 # ToDo-List-Week14-
 <div>
 <img src="Todo_list1.png" width='300'/>
-<img src="BTodo_list2.png" width='300'/>
+<img src="Todo_list2.png" width='300'/>
 </div>
 
 ## Description:
