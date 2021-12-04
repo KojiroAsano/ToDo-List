@@ -22,16 +22,14 @@
      ```
   4. Type **npm install**.
      ```console
-    npm install
+    foo@bar:~$npm install
      ```
   5. type **http-server -c-1** to start the server.
      ```console
-    http-server -c-1
+    foo@bar:~$http-server -c-1
      ```
-  6. Go online and **localhost:8080**
-     ```console
-    localhost:8080
-     ```
+  6. Go online and type **localhost:8080** in URL box.
+
   
 ## Usage:
   <p>If successfully installed and run on the Web browser, the Todo list shows up. If you could not deal with daily work, try my todo list!!</p>
