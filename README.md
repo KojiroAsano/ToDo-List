@@ -17,7 +17,7 @@
     4. **todo.js** <br>
     5. **style.css** <br>
   3. Open shell and type **npm install --global http-server**.
-    ```console
+     ```console
     npm install --global http-server
      ```
   4. Type **npm install**.
@@ -25,13 +25,13 @@
     npm install
      ```
   5. type **http-server -c-1** to start the server.
-  ```console
+     ```console
     http-server -c-1
-   ```
+     ```
   6. Go online and **localhost:8080**
-    ```console
+     ```console
     localhost:8080
-   ```
+     ```
   
 ## Usage:
   <p>If successfully installed and run on the Web browser, the Todo list shows up. If you could not deal with daily work, try my todo list!!</p>
