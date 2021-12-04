@@ -5,7 +5,7 @@
 </div>
 
 ## Description:
-  This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week14.
+  This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week14.</br>
   This program consists of javascript, html, and css.
   This program is Todo list. If you are done with your task and push "Done", then window asks if you want to remove the task from Todo list.
 
