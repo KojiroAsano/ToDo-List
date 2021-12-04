@@ -26,7 +26,7 @@
      ```
   5. type **http-server -c-1** to start the server.
      ```console
-    foo@bar:~$http-server -c-1
+     http-server -c-1
      ```
   6. Go online and type **localhost:8080** in URL box.
 
