@@ -1,0 +1,72 @@
+
+body {
+    margin: 0;
+    font-family: arial;
+    -webkit-front-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+.code{
+    font-family: Arial;
+}
+
+.app {
+    background: #30a34d;
+    padding: 30px;
+    height: 100vh;
+}
+
+.todo-list{
+    font-weight: 500;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+    margin-left: auto;
+    margin-right: auto;
+    background: #e8e8e8;
+    border-radius: 10px;
+    padding: 20px;
+    width: 60%;
+    min-width:400px;
+}
+
+.todo{
+    background :#fff;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+    padding: 5px 10px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+
+}
+.todo:hover{
+    cursor: pointer;
+    box-shadow: 8px 7px 0px 0px rgba(100, 100, 100, 0.5);
+}
+
+.input{
+    width: 100%;
+    box-sizing: border-box;
+    border: 0;
+    border-radius: 4px;
+    
+    padding:  1rem;
+    height: 2.25em;
+    font-size:  30px;
+}
+
+.input:active{
+    box-shadow: 8px 7px 0px 0px rgba(100, 100, 100, 0.5);
+    border: none;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+
+    border-bottom: 0%;  
+    font-weight: bold;
+    margin: 0px;
+}
