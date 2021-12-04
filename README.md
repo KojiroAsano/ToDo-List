@@ -21,7 +21,7 @@
     npm install --global http-server
      ```
   4. Type **npm install**.
-     ```console
+     ```bash
     foo@bar:~$npm install
      ```
   5. type **http-server -c-1** to start the server.
