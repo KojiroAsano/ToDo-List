@@ -31,7 +31,7 @@
 
   
 ## Usage:
-**[Live app](https://kojiroasano.github.io/ToDo-List-Week14-/)**
+**[Live app](https://kojiroasano.github.io/ToDo-List/)**
   <p>If successfully installed and run on the Web browser, the Todo list shows up. If you could not deal with daily work, try my todo list!!</p>
   
 ## Support:
