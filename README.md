@@ -1,7 +1,7 @@
 # ToDo-List
 <div>
-<img src="Todo_list1.png" width='450'/>
-<img src="Todo_list2.png" width='450'/>
+<img src="Todo_list1.png" width='430'/>
+<img src="Todo_list2.png" width='430'/>
 </div>
 
 ## Description:
