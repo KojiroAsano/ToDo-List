@@ -19,6 +19,9 @@
      ```console
      npm install --global http-server
      ```
+     ```console
+     npm install -g http-server
+     ```
   4. Type **npm install**.
      ```console
      npm install
