@@ -19,6 +19,7 @@
      ```console
      npm install --global http-server
      ```
+     or
      ```console
      npm install -g http-server
      ```
