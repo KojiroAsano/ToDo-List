@@ -1,21 +1,24 @@
 function App(){
     const [todos, setTodos] = React.useState([
         {
-            text: 'learn react',
+            text: 'learning react',
             isCompleted: false,
+            due:'09:51'
         },
         {
-            text: 'meet friend for lunch',
+            text: 'meeting friend for lunch',
             isCompleted: false,
+            due:'19:51'
         },
         {
-            text:'build todo app',
+            text:'building todo app',
             isCompleted: false,
+            due:'07;43'
         }
     ]);
 
-    const addTodo = text => {
-        const newTodos = [...todos, {text: text, isCompleted:false}];
+    const addTodo = (text, due) => {
+        const newTodos = [...todos, {text: text, isCompleted:false, due: due}];
         setTodos(newTodos);
     }
     
@@ -30,8 +33,11 @@ function App(){
             <div className="todo-list">
                 {todos.map((todo,i) => 
                     <Todo index={i} key={i} todo={todo} remove={removeTodo}/>)}
-                <TodoForm addTodo={addTodo}/>
             </div>
+            <div className="todo-list">
+            <TodoForm addTodo={addTodo}/>
+            </div>
+            
         </div>
     </>);
 }
