@@ -43,6 +43,7 @@
   
 ## Roadmap:
   I will restylize, might add modal, and improve form if possible.
+  I wii abusolutely add error input handling.
   
 ## License information: 
 Copyright 2022 Kojiro Asano
